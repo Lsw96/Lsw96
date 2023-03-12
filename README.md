@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi!👋, I`m Lee Seongwoo</h1>
-<hr>
 <h3 align="center">A student at kaywon University of Arts.</h3>
 <br>
 <ul>
@@ -8,8 +7,8 @@
     <li>:postbox:How to reach me <a href="mailto:tjddn1007@naver.com"><b>tjddn1007@naver.com</b></a></li>
 </ul>
 <br>
-> <h3><b>Connect with me:</b></h3>
->> <a href="https://www.instagram.com/seongwoo_1112/">
+<h3><b>Connect with me:</b></h3>
+<a href="https://www.instagram.com/seongwoo_1112/">
     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href="https://www.facebook.com/profile.php?id=100000812930344">
