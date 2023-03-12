@@ -9,13 +9,13 @@
 </ul>
 <br>
 <h3><b>Connect with me:</b></h3>
-<a href="https://www.instagram.com/seongwoo_1112/">
+<a href="https://www.instagram.com/seongwoo_1112/" type="_blank">
     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href="https://www.facebook.com/profile.php?id=100000812930344">
+<a href="https://www.facebook.com/profile.php?id=100000812930344" type="_blank">
     <img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/%EC%84%B1%EC%9A%B0-%EC%9D%B4-992b7b269/">
+<a href="https://www.linkedin.com/in/%EC%84%B1%EC%9A%B0-%EC%9D%B4-992b7b269/" type="_blank">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <h1></h1>
