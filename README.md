@@ -1,9 +1,9 @@
 <h1 align="center">Hi!👋, I`m Lee Seongwoo</h1>
 <h3 align="center">A student at kaywon University of Arts.</h3>
 <br>
-:seedling:I`m currently learning <b>JS, Jquery, Node.js</b>
+-:seedling:I`m currently learning <b>JS, Jquery, Node.js</b>
 <br>
-:postbox:How to reach me <b>JS, Jquery, Node.js</b>
+-:postbox:How to reach me <b>JS, Jquery, Node.js</b>
 <br>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?tab=repositories&url=https%3A%2F%2Fgithub.com%2FLsw96&count_bg=%23A6B2C4&title_bg=%23187FCC&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false"/></a>
 <br>
