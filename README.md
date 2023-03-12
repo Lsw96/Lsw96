@@ -1,4 +1,3 @@
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <h1 align="center">Hi!👋, I`m Lee Seongwoo</h1>
 <h3 align="center">A student at kaywon University of Arts.</h3>
 <br>
