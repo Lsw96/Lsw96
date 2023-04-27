@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=안녕하세요%20저는%20이성우입니다%20🙋‍&fontSize=40&fontAlignY=40&animation=twinkling" />
-<h1 align="center">Hi!👋, I`m Lee Seongwoo</h1>
-<h3 align="center">A student at kaywon University of Arts.</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=안녕하세요%20저는%20이성우입니다%20🙋‍&fontSize=40&fontAlignY=35&fontAlign=37&animation=twinkling" />
+<h1 align="left">Hi!👋, I`m Lee Seongwoo</h1>
+<h3 align="left">A student at kaywon University of Arts.</h3>
 <br>
 <br>
 <ul>
